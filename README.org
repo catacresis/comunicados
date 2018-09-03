@@ -1,7 +1,9 @@
-# Empieza la actualización de tareas
+* Empieza la actualización de tareas
 Comienza el volcado de materiales en los repositorios. Próximamente se irán liberando los enlaces correspondientes
-## Compilación
+** Compilación
 Los contenidos se podrán compilar con los comandos
-```bash
+
+#+BEGIN_SRC bash
 make <archivo-de-configuración>
-```
+#+END_SRC
+
